@@ -39,6 +39,6 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png", TTV HD - Báo và PTTH Thanh Hóa
-https://sgclient.duckdns.org/source/tv360.m3u8?id=89
+https://s3-fpt-cdn.sohatv.vn/live/pull/Y5Kan2X7I7GHo4VN/thth-live/eVc6tyHuFZLQYgmX/337a54767a7233703637564336316a6d4b60646ff5c8e7ca2a33a10661c9f31d1bbbb4c5c0339b368c81a674a99e3a3408dada8cfbb828de59f01e75b5ee11d2b00a98b2a675cd95de2277fd3636e7f29b04f73b01f9de9271589d02cb820c4542b4e7faf141139ed29ed2fa5fda05549ff7c7631dc4c7c68a37ef57f71c3e082e2c41c18b56a6ed1711b9b7a8909eba2446218499001728c761305ed9c03991bbb0b7f2513e013be57afb7d9e2edde2/720.m3u8
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onechannel.png", ON E- Channel
 https://sgclient.duckdns.org/source/tv360.m3u8?id=182
