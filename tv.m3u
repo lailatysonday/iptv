@@ -40,6 +40,6 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1,TTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://sgclient.duckdns.org/source/tv360.m3u8?id=89
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/thanh-hoa/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onechannel.png", ON E- Channel
 https://sgclient.duckdns.org/source/tv360.m3u8?id=182
